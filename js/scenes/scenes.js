@@ -25,6 +25,7 @@ export default () => {
          { name: "DemoA1"            , path: "./demoA1.js"            },
          { name: "DemoA2"            , path: "./demoA2.js"            },
          { name: "DemoA3"            , path: "./demoA3.js"            },
+         { name: "DemoA4"            , path: "./demoA4.js"            },
       ]
    };
 }
