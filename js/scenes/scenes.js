@@ -22,6 +22,11 @@ export default () => {
          { name: "DemoHands"         , path: "./demoHands.js"         },
          { name: "DemoShader"        , path: "./demoShader.js"        },
          { name: "DemoTerrain"       , path: "./demoTerrain.js"       },
+         { name: "DemoRayTrace"      , path: "./demoRayTrace.js"      },
+         { name: "DemoAudio"         , path: "./demoAudio.js"         },
+         { name: "DemoWire"          , path: "./demoWire.js"          },
+         { name: "DemoBlending"      , path: "./demoBlending.js"      },
+
          { name: "DemoA1"            , path: "./demoA1.js"            },
          { name: "DemoA2"            , path: "./demoA2.js"            },
          { name: "DemoA3"            , path: "./demoA3.js"            },
