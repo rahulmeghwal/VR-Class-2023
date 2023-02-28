@@ -2,3 +2,5 @@ node_modules
 *.DS_Store
 **/.DS_Store
 *.pem
+media/textures/moon-16k.tif
+media/textures/moon-16k.png
