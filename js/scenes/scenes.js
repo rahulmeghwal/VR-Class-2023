@@ -20,9 +20,9 @@ export default () => {
          // { name: "DemoOpacity"       , path: "./demoOpacity.js"       },
          // { name: "DemoHUD"           , path: "./demoHUD.js"           },
          // { name: "DemoHands"         , path: "./demoHands.js"         },
-         { name: "DemoShader"        , path: "./demoShader.js"        },
-         { name: "DemoTerrain"       , path: "./demoTerrain.js"       },
-         { name: "DemoRayTrace"      , path: "./demoRayTrace.js"      },
+         // { name: "DemoShader"        , path: "./demoShader.js"        },
+         // { name: "DemoTerrain"       , path: "./demoTerrain.js"       },
+         // { name: "DemoRayTrace"      , path: "./demoRayTrace.js"      },
          // { name: "DemoAudio"         , path: "./demoAudio.js"         },
          // { name: "DemoWire"          , path: "./demoWire.js"          },
          // { name: "DemoBlending"      , path: "./demoBlending.js"      },
@@ -30,7 +30,9 @@ export default () => {
          // { name: "DemoA2"            , path: "./demoA2.js"            },
          // { name: "DemoA3"            , path: "./demoA3.js"            },
          // { name: "DemoA4"            , path: "./demoA4.js"            },
-         { name: "DemoA5"            , path: "./demoA5.js"            },
+         // { name: "DemoA5"            , path: "./demoA5.js"            },
+         { name: "DemoA6"            , path: "./demoA6.js"            },
+         //{ name: "omar"            , path: "./omar.js"            },
       ]
    };
 }

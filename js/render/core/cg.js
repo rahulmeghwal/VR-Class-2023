@@ -373,7 +373,7 @@ export let mScale = (x,y,z) => {
 }
 
 export let scaleO = (m,x,y,z) => {
-   console.log(m,x,y,z)
+   //console.log(m,x,y,z)
    m[ 0] = x;
    m[ 5] = y;
    m[10] = z;
